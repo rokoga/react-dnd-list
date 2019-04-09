@@ -1,0 +1,18 @@
+{
+  "name": "react-dnd-list",
+  "version": "1.0.0",
+  "description": "A simple react drag n drop list with touch support",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "dnd",
+    "drag",
+    "and",
+    "drop",
+    "list"
+  ],
+  "author": "rokoga",
+  "license": "MIT"
+}
